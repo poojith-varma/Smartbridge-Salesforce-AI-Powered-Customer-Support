@@ -100,7 +100,7 @@ User Case
 
 ---
 
-# 🗂️ Data Model
+# Data Model
 
 ## Customer
 
@@ -142,7 +142,7 @@ User Case
 
 ---
 
-# 🔄 Salesforce Automation
+# Salesforce Automation
 
 ### Validation Rules
 
@@ -216,7 +216,7 @@ The application implements:
 # 📂 Repository Structure
 
 ```text
-📦 Smartbridge-Salesforce-AI-Powered-Customer-Support
+ Smartbridge-Salesforce-AI-Powered-Customer-Support
 │
 ├── 📄 README.md
 ├── 📁 Documentation
@@ -226,7 +226,7 @@ The application implements:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -240,7 +240,7 @@ The application implements:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Poojith Varma**
 
