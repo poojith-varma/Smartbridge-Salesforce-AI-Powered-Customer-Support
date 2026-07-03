@@ -213,7 +213,7 @@ The application implements:
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
  Smartbridge-Salesforce-AI-Powered-Customer-Support
@@ -223,20 +223,6 @@ The application implements:
 ├── 📁 Salesforce-Setup
 ├── 📁 Screenshots
 ```
-
----
-
-# Technologies Used
-
-| Technology | Purpose |
-|------------|----------|
-| Salesforce Service Cloud | CRM Platform |
-| Lightning App Builder | UI Development |
-| Flow Builder | Process Automation |
-| Prompt Builder | AI Integration |
-| Validation Rules | Data Validation |
-| Reports | Analytics |
-| Dashboards | Visualization |
 
 ---
 
